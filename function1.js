@@ -10,3 +10,6 @@ function square(number){
    console.log("ami paiya gelam",gon)
 }
 square(5)
+console.log('-----------------------')
+const money = 25;
+square(money);
